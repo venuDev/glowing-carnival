@@ -7,3 +7,6 @@ hope this wont work .. why not as this some ones code ..
 
 major changes ..
 
+Script added in VS Code
+this practice git don't panic ..
+
